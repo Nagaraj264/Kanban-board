@@ -1,12 +1,12 @@
 ### Kanban Board
-This is a simple Kanban board project built using HTML, CSS, JavaScript, and the Drag and Drop API. It allows you to create tasks and organize them into different stages, such as "To Do," "Done," and "On Hold"
+This is a simple Kanban board project built using HTML, CSS, and JavaScript. It allows you to create tasks and organize them into different stages, such as "To Do," "Done," and "progress "
 
 ### Features
 Drag and drop tasks between different stages of the board
 Create new tasks and assign them to a stage
 Edit task details
 Delete tasks from the board
-Responsive design for mobile and desktop devices
+
 
 ### Technologies Used
 ## HTML
